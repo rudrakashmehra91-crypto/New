@@ -1,0 +1,6 @@
+{
+  "name": "TV Home",
+  "description": "Android TV Custom Home Screen launcher",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
